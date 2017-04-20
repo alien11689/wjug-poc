@@ -1,13 +1,19 @@
-# wjug-poc
+wjug-poc
+========
+
 WJUG webpage POC on JBake
 
-0. Install sdkman (http://sdkman.io/install.html)
-0. Install jbake
-  ```
-  sdk i jbake
-  ```
-0. Run jbake
-  ```
-  jbake -b -s
-  ```
-0. Open http://localhost:8820/
+1.	Install sdkman (http://sdkman.io/install.html\)
+2.	Install jbake
+
+	```
+	  sdk i jbake
+	```
+
+3.	Run jbake
+
+	```
+	  jbake -b -s
+	```
+
+4.	Open http://localhost:8820/
